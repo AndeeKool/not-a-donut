@@ -4,7 +4,8 @@ import cvlib as cv
 from cvlib.object_detection import draw_bbox
 import numpy as np
 
-image = cv2.imread("sample-02.jpg")
+# Change the sample to 00 / 01 / 02 to see it work
+image = cv2.imread("img/sample-02.jpg") 
 
 # apply object detection
 bbox, label, conf = cv.detect_common_objects(image)
