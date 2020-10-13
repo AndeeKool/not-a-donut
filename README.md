@@ -10,8 +10,8 @@ image = cv2.imread("img/sample-02.jpg")
 
 Output Examples:
 
-![Output-sample-00](https://github.com/AndeeKool/not-a-donut/blob/main/img/sample-00.jpg)
+![Output-sample-00](https://github.com/AndeeKool/not-a-donut/blob/main/output/donut_detection-sample-00.jpg)
 
-![Output-sample-01](https://github.com/AndeeKool/not-a-donut/blob/main/img/sample-01.jpg)
+![Output-sample-01](https://github.com/AndeeKool/not-a-donut/blob/main/output/donut_detection-sample-01.jpg)
 
-![Output-sample-02](https://github.com/AndeeKool/not-a-donut/blob/main/img/sample-02.jpg)
+![Output-sample-02](https://github.com/AndeeKool/not-a-donut/blob/main/output/donut_detection-sample-02.jpg)
